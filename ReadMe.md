@@ -1,3 +1,4 @@
+<!--
 <h1 align="center"> 🌐 Socials:</h1>
 
 <div align="center">
@@ -28,6 +29,7 @@
   ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
   
 </div>
+-->
 
 
 <!-- # 📊 GitHub Stats: -->
